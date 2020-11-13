@@ -1,7 +1,4 @@
 # ProjectsR
-
-Fields I'm aware of : Python libraries, ML Algorithms, Deep Learning (applications and usage)
-
 Projects
 
 ●	Classification problem (Mammographic masses - benign or malignant) using various Machine Learning algorithms and Deep Learning
@@ -10,7 +7,7 @@ Projects
 
 ●	Came up with best multi-layer perceptron for the Self-Driving-Car project in class
 
-●	Scraped data from a few websites for data collection using Selenium with python
+●		Built a Neural Network from scratch on Spiral data points using python and Numpy only
 
 ●	Made a dummy yet interactive website for college project using HTML, CSS and JS
  
