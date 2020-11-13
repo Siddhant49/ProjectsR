@@ -1,8 +1,9 @@
 # ProjectsR
-Here I have embedded a few of the projects I have built and/or have worked on.  
-
-Interned at FarmGuide.in for 30 days where I worked on Holistically-Nested Edge Detection project on the farms of India.  I was responsible for the training data required for the model to train on.
-
-Interned at Gtrac.in for a good 2 month period where I worked on web development and data visualization in python and PHP.
-
-I am looking for more exposure and knowledge in the AI/ML industry and new challenges that come along. 
+Fields I'm aware of : Python libraries, ML Algorithms, Deep Learning (applications and usage)
+Projects
+●	Classification problem (Mammographic masses - benign or malignant) using various Machine Learning algorithms and Deep Learning
+●	Built a Movie Recommender System (Item-based collaborative filtering) on MovieLens Dataset using python
+●	Came up with best multi-layer perceptron for the Self-Driving-Car project in class
+●	Scraped data from a few websites for data collection using Selenium with python
+●	Made a dummy yet interactive website for college project using HTML, CSS and JS
+ 
